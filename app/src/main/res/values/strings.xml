@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MMProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="navButton1">Next page</string>
+    <string name="navButton2">Another page</string>
+    <string name="hint">Click me for sound</string>
+    <string name="hint2">Click me for video</string>
+    <string name="title_activity_1">Activity1</string>
+    <string name="title_activity_2">Activity2</string>
+    <string name="fadeBt">Solu - Fade</string>
+    <string name="imaginationBt">Gorgon City - Imagination</string>
+    <string name="teachBt">Bakermat - Teach Me</string>
+</resources>
